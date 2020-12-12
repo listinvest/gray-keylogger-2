@@ -20,7 +20,7 @@
 <p> Every file has unique fingerprint called checksum or hashes. It can be generated using MD5,SHA-1 etc. Checksum can be changed by little bit changing icon file-size etc. Antiruses based on signatures are Avast.</p>
 
 
-<h2> Legal Disclaimer & Warnings</h2>
+<h2> Legal Disclaimer </h2>
 <p>Don't use it for illegal purpose. But I won't be responsible in case of crime.</p>
 <h2> Contact</h2>
 <ul><li>Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a></li>
