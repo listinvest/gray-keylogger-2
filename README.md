@@ -1,4 +1,5 @@
 <h1> Update:</h1>
+project moved to https://github.com/DarkSecDevelopers/GrayKeylogger
 <a href=https://discord.gg/Hu5XPGMTuk><img src=https://img.shields.io/discord/787203724975931413?label=discord /></a>
 <h2> Gray Windows Keylogger 2 - Written every line of code with hands</h2>
 <p> Gray Windows Keylogger 2 is gmail keylogger which can generate small windows executable file as well as dll. On clicking this file, it will load and start capturing keyboard keystrokes and send it via gmail you provided. 
